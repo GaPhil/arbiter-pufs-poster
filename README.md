@@ -1,7 +1,9 @@
 ## On Statistical Properties of Arbiter Physical Unclonable Functions - poster
 
 <p align="center">
-<img style='border:1px solid #000000' src="https://github.com/GaPhil/arbiter-pufs-poster/blob/master/On_Statistical_Properties_of_Arbiter_PUFs_poster.png" width="800">
+<kbd>
+<img src="https://github.com/GaPhil/arbiter-pufs-poster/blob/master/On_Statistical_Properties_of_Arbiter_PUFs_poster.png" width="800">
+</kbd>
 </p>
 
 ### Abstract
